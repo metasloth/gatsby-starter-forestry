@@ -26,11 +26,11 @@ sections:
 - type: heading
   label: Config
 - type: document
-  path: src/data/main_menu.json
-  label: Nav Menu
-- type: document
   path: site-config.json
   label: Site Config
+- type: document
+  path: src/data/main_menu.json
+  label: Nav Menu
 upload_dir: src/images
 public_path: "/src/images"
 front_matter_path: ''
