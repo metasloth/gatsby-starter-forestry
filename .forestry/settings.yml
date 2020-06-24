@@ -23,10 +23,6 @@ sections:
   new_doc_ext: md
   templates:
   - post
-- type: document
-  path: src/pages/landing
-  label: Landing Pages
-  match: "**/*"
 - type: heading
   label: Config
 - type: document
